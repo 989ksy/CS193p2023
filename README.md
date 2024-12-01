@@ -8,8 +8,8 @@
 
 | Lecture # | Programming | Reading | Note | Screenshot |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Lecture 1](https://www.youtube.com/watch?v=n1qabtjZ_jg)  | ❎ | | [Note1📝](https://github.com/989ksy/CS193p2023/blob/main/Note/Lecture/Lecture1.md)
-| [Lecture 2](https://www.youtube.com/watch?v=sXiD-2XrkKQ)  | |
+| [Lecture 1](https://www.youtube.com/watch?v=n1qabtjZ_jg)  | ❎ | | [Note📝](https://github.com/989ksy/CS193p2023/blob/main/Note/Lecture/Lecture1.md) | ❎
+| [Lecture 2](https://www.youtube.com/watch?v=sXiD-2XrkKQ)  | | | ❎ | [Screenshot📸](https://github.com/989ksy/CS193p2023/blob/main/Assignment/Screenshot/Assignment1.md)
 | Lecture 3  | |
 | Lecture 4  | |
 | Lecture 5  ||
