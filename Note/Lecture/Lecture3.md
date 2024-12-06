@@ -18,8 +18,7 @@
     - 하이브리드 형식에 가까운데, 앱이 커지면 유지보수가 힘들어서 추천하는 방식은 아님.
 
 ## MVVM
-
-![참고 이미지](<스크린샷 2024-12-06 오후 5.10.35.png>)
+<img width="1171" alt="스크린샷 2024-12-06 오후 5 10 35" src="https://github.com/user-attachments/assets/db2cf8a6-d750-407a-946d-ad8116d90ca6">
 
 - Model
     - UI 에서 독립적임
@@ -47,7 +46,8 @@
 
 차이점에 대한 정리 된 slide:
 
-![Alt text](<스크린샷 2024-12-06 오후 5.33.21.png>)
+<img width="1171" alt="스크린샷 2024-12-06 오후 5 33 21" src="https://github.com/user-attachments/assets/89bc5cbc-d289-4f30-9e2b-2266b84b5e34">
+
 
 ### Generics
 
