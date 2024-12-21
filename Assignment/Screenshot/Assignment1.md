@@ -1,3 +1,3 @@
 # Assignment1
 
-![Simulator Screen Recording - iPhone 16 - 2024-12-02 at 01 02 57](https://github.com/user-attachments/assets/ccbe7c7c-3a45-4385-949f-064a22764ddd)
+![Simulator Screen Recording - iPhone 16 - 2024-12-22 at 00 06 02](https://github.com/user-attachments/assets/001bf92e-19fd-469a-b121-0b4178f650cd)
